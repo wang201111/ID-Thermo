@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "id-thermo"
+version = "1.0.0"
+description = "Identifiability-constrained correction of Pitzer mixing parameters for cross-system electrolyte SLE prediction"
+readme = "README.md"
+requires-python = ">=3.10"
+keywords = [
+  "Pitzer model",
+  "solid-liquid equilibrium",
+  "electrolyte thermodynamics",
+  "parameter identifiability",
+]
+dependencies = [
+  "numpy>=1.24,<3",
+  "pandas>=2.0",
+  "scipy>=1.10",
+  "scikit-learn>=1.3",
+  "torch>=2.2",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-dir]
+"" = "src"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

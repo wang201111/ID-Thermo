@@ -1,0 +1,10 @@
+﻿system,source_id,n_records,temperature_min_C,temperature_max_C,citation
+K-Mg-Cl-SO4,Cui2020,25,15,15,"R.-Z. Cui, Journal of Molecular Liquids 319 (2020) 114192, DOI 10.1016/j.molliq.2020.114192 [34]."
+Na-K-Cl-SO4,Blasdale1918,4,25,25,"W. Blasdale, J. Ind. Eng. Chem. 10 (1918) 345-347; compiled in handbook [29]."
+Na-K-Cl-SO4,Meyerhoffer1899,9,0.2,25,Meyerhoffer and Saunders (1899); compiled in handbook [29].
+Na-K-Cl-SO4,Precht1882,10,10,100,Precht and Wittgen (1882); compiled in handbook [31].
+Na-K-Cl-SO4,Rustamov1957,25,0,30,"Rustamov (1957, 1957a); compiled in handbook [29]."
+Na-K-Cl-SO4,Shen2016,27,40,40,"W. Shen et al., Journal of Chemical & Engineering Data 61 (2016) 2027-2039, DOI 10.1021/acs.jced.5b00992 [32]."
+Na-Mg-Cl-SO4,KournakoffYanatievaMayeda,39,0,55,Kournakoff-Zemcuznyj / Yanatieva / Mayeda combined source entry compiled in handbook [29].
+Na-Mg-Cl-SO4,Yanatieva1948,25,55,55,Yanatieva (1948); compiled in handbook [29].
+Na-Mg-Cl-SO4,Zhang2022,18,40,40,"R. Zhang and Y. Ren, Journal of Chemical & Engineering Data 67 (2022) 521-530, DOI 10.1021/acs.jced.1c00792 [33]."

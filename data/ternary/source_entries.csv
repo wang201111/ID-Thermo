@@ -1,0 +1,295 @@
+﻿source_id,citation,n_records,subsystems,compilations,temperature_min_C,temperature_max_C
+TSRC001,"A. Benrath, A. Schloemer, J. Clermont, S. Kojitsch, Z. anorg. Chem., 170, 277-278 (1928); Caliche, 11, 117 (1929)",14,MgSO4_Na2SO4_H2O,Zdanovskii1953,50,50
+TSRC002,"A. Benrath, A. Sichelschmidt, Z. anorg. Chem., 197, 114 and 120 (1931)",9,K2SO4_MgSO4_H2O,Zdanovskii1953,66,75
+TSRC003,"A. Benrath, A. Sichelschmidt, Z. anorg. Chem., 197, 114, 120 (1931)",22,K2SO4_MgSO4_H2O,Pelsh1973,66,75
+TSRC004,"A. Benrath, H. Pitzer, N. Ylieff, Z. anorg. Chem., 170, 263-264 (1928); Caliche, 11, 104 (1929)",19,MgSO4_Na2SO4_H2O,Zdanovskii1953,15,15
+TSRC005,"A. Benrath, H. Wazelle (0.2 deg), H. Benrath (99.5 deg), Z. anorg. Chem., 189, 74, 80 (1930)",5,K2SO4_MgSO4_H2O,Pelsh1973,0.2,0.2
+TSRC006,"A. Benrath, W. Ben, Z. anorg. Chem., 170, 270 (1928); Caliche, 11, 110 (1929)",20,MgSO4_Na2SO4_H2O,Zdanovskii1953,25,25
+TSRC007,"A. Benrath, Wazelle (0.2 deg), H. Benrath (99.5 deg), Z. anorg. Chem., 188, 74 and 80 (1930)",15,K2SO4_MgSO4_H2O,Zdanovskii1953,0.2,99.5
+TSRC008,"A. Campbell, K. Downes, C. Samis, J. Am. Chem. Soc., 56, 2508 (1934)",7,K2SO4_KCl_H2O;KCl_MgCl2_H2O,Pelsh1973,100,100
+TSRC009,"A. Campbell, K. Downes, C. Samis, J. Am. Chem. Soc., 56, 2509 (1934)",2,MgCl2_MgSO4_H2O,Pelsh1973,100,100
+TSRC010,"A. Campbell, K. Downes, C. Samis, J. Am. Chem. Soc., 56, 2510 (1934)",6,K2SO4_MgSO4_H2O,Pelsh1973,100,100
+TSRC011,"A. Ch. Rivett, J. Chem. Soc., 121-122, 383-391 (1922)",9,Na2SO4_NaCl_H2O,Zdanovskii1953,0,80
+TSRC012,"A. Chretien, Caliche, 8, 358-359 (1926); Ann. chim. (10), 12, 130-144 (1929)",32,Na2SO4_NaCl_H2O,Zdanovskii1953,0,100
+TSRC013,"A. F. Rogers, Am. J. Sci. (5), 11, No 66, 474 (1926)",3,Na2SO4_NaCl_H2O,Zdanovskii1953,35,35
+TSRC014,"A. Geiger, Inaug. Dissert., Berlin, str. 22-25, 1904",2,K2SO4_MgSO4_H2O,Pelsh1973,83,83
+TSRC015,"A. J. Pelling, J. South African Chem. Inst., 8, No 1, 3-4 (1925)",6,Na2SO4_NaCl_H2O,Zdanovskii1953,0,94.5
+TSRC016,"A. Seidell, Am. Chem. J., 27, 55-58 (1902)",57,Na2SO4_NaCl_H2O,Zdanovskii1953,10,35
+TSRC017,"A. Sieverts, H. Muller, Z. anorg. Chem., 189, 254-256 (1930); Caliche, 12, 111 (1930)",3,MgCl2_NaCl_H2O,Zdanovskii1953,15,50
+TSRC018,"A. Smits, C. Lobry de Bruyn, Verslag Acad. Amsterdam, 22, 554 (1913)",1,KCl_NaCl_H2O,Zdanovskii1953,25,25
+TSRC019,"A. Weston, J. Chem. Soc., 121-122, 1225 (1922)",14,K2SO4_MgSO4_H2O,Pelsh1973;Zdanovskii1953,30,30
+TSRC020,"A. and H. Benrath, Z. anorg. Chem., 170, 283-284 (1928); Caliche, 11, 117 (1929)",21,MgSO4_Na2SO4_H2O,Zdanovskii1953,97,97
+TSRC021,"A. and H. Benrath, Z. anorg. Chem., 184, 361-362 (1929); Caliche, 12, 246 (1930)",10,K2SO4_MgSO4_H2O,Zdanovskii1953,25,25
+TSRC022,"A. and H. Benrath, Z. anorg. Chem., 184, 366 (1929); Caliche, 12, 252 (1930)",12,K2SO4_MgSO4_H2O,Pelsh1973,50,50
+TSRC023,"Amadori, Atti del reale Istituto Veneto, 39, II, 317-318 (1919-1920)",31,K2SO4_Na2SO4_H2O,Zdanovskii1953,40,50
+TSRC024,"Archibald and Gale, 1924",15,MgSO4_Na2SO4_H2O,Linke1965,30,100
+TSRC025,"B. Karsten, Philosophie der Chemie, str. 90-91, 1843 (po D'Ans'y)",1,K2SO4_KCl_H2O,Zdanovskii1953,18.7,18.7
+TSRC026,"B. Potdar, Caliche, 7, 391 (1925)",10,Na2SO4_NaCl_H2O,Zdanovskii1953,0,90
+TSRC027,"B. Starrs, H. Storch, J. Phys. Chem., 34, 2371 (1930)",17,K2SO4_MgSO4_H2O,Pelsh1973,85,100
+TSRC028,"B. Starrs, H. Storch, J. Phys. Chem., 34, 2371-2372 (1930)",32,K2SO4_MgSO4_H2O,Zdanovskii1953,85,100
+TSRC029,"B. Starrs, L. Clarke, J. Phys. Chem., 34, 1060 (1930)",20,K2SO4_MgSO4_H2O,Pelsh1973;Zdanovskii1953,30,30
+TSRC030,"Bayliss, Cole, Ewers, and Jones, 1947",33,K2SO4_MgSO4_H2O;K2SO4_Na2SO4_H2O,Linke1965,35,35
+TSRC031,"Benrath & Benrath, 1929(a)",7,K2SO4_MgSO4_H2O,Linke1965,25,25
+TSRC032,"Benrath & Benrath, 1930; Van Klooster, 1917; Starrs and Clark, 1930; Bayliss et al., 1947; Bodaleva and Lepeshkov, 1956; Benrath and Sichelschmidt, 1931; Luk'yanova et al., 1956; Starrs and Storck, 1930",19,K2SO4_MgSO4_H2O,Linke1965,0,25
+TSRC033,"Benrath and Benrath, 1929a",9,K2SO4_MgSO4_H2O,Linke1965,50,50
+TSRC034,"Benrath and Benrath, 1930",9,K2SO4_MgSO4_H2O,Linke1965,100,100
+TSRC035,"Benrath and Sichelschmidt, 1931",20,K2SO4_MgSO4_H2O,Linke1965,66,75
+TSRC036,"Benrath, 1928",9,MgSO4_Na2SO4_H2O,Linke1965,50,97
+TSRC037,"Bodaleva and Lepeshkov, 1956",8,K2SO4_MgSO4_H2O,Linke1965,55,55
+TSRC038,"C. Di Capua, U. Scaletti, Gazz. chim. ital., 57, 394 (1927)",12,KCl_NaCl_H2O,Zdanovskii1953,20,20
+TSRC039,"C. Marie, R. Marquis, Z. phys. Chem., 45, 570 (1903); Compt. rend., 136, 685 (1903)",7,Na2SO4_NaCl_H2O,Zdanovskii1953,14.8,34.28
+TSRC040,"Cameron, Bell and Robinson, 1907.",12,Na2SO4_NaCl_H2O,Seidell1919,25,25
+TSRC041,"Campbell, Downs and Samis, 1934; Achumow and Wassilijew, 1932",11,KCl_MgCl2_H2O,Linke1965,100,100
+TSRC042,"Ch. Blarez, Compt. rend., 112, 940-941 (1891)",10,K2SO4_KCl_H2O,Zdanovskii1953,12.5,26
+TSRC043,"Chretien, 1926, 1929 (Includes data from Foote and Schairer 1930, Pelling 1925, Takejami 1920-1921, Schreinemakers and deBaat 1909, Bogoyaulenskii and Sukmanskaya 1955)",58,Na2SO4_NaCl_H2O,Linke1965,0,100
+TSRC044,"Cornec and Krombach, 1928, 1929",16,K2SO4_Na2SO4_H2O,Linke1965,0,100
+TSRC045,"Cornec and Krombach, 1932; Blasdale, 1918; Ackoumov and Wassilijew, 1932; Bergman and Vlassov, 1949",13,KCl_NaCl_H2O,Linke1965,0,100
+TSRC046,"Cornec and Krombach, 1932; Blasdale, 1918; Ackoumov and Wassilijew, 1932; Bergman and Vlassov, 1949; DiCapua and Scalletti, 1927; Holluta and Moutner, 1927; Ravich and Borovaya, 1949, 1950",15,KCl_NaCl_H2O,Linke1965,0,100
+TSRC047,"D'Ans, Bertsch, Gessner, Kali, No 11, 161 (1915)",2,Na2SO4_NaCl_H2O,Zdanovskii1953,0,55
+TSRC048,"D'Ans, Bertsch, Gessner, Kali, No 11, 163 (1915)",4,K2SO4_Na2SO4_H2O,Zdanovskii1953,35,90
+TSRC049,"D'Ans, Bertsch, Gessner, Kali, No 12, 178 (1915)",8,MgSO4_Na2SO4_H2O,Zdanovskii1953,0,90
+TSRC050,"D'Ans, Bertsch, Gessner, Kali, No 13, 193-194 (1915)",8,K2SO4_MgSO4_H2O,Zdanovskii1953,0,90
+TSRC051,"D'Ans, Bertsch, Gessner, Kali, No 11, 162 (1915)",2,K2SO4_KCl_H2O,Zdanovskii1953,35,90
+TSRC052,"D'Ans, Kali, No 10, 151 (1915)",3,KCl_NaCl_H2O,Zdanovskii1953,0,83
+TSRC053,"D'Ans, Kali, No 10, 152 (1915)",2,MgCl2_NaCl_H2O,Zdanovskii1953,0,55
+TSRC054,"D'Ans, Kali, No 10, 152-153 (1915)",2,KCl_MgCl2_H2O,Zdanovskii1953,25,25
+TSRC055,"D'Ans, Kanakowsky, Kali, No 4, 72 (1944)",2,K2SO4_KCl_H2O,Zdanovskii1953,25,35
+TSRC056,"E. Archibald, W. Gale, J. Am. Chem. Soc., 46, 1762-1769 (1924)",89,MgSO4_Na2SO4_H2O,Zdanovskii1953,0,100
+TSRC057,"E. Basch, Inaug. Dissert., Berlin, str. 15-22, 1901",3,K2SO4_MgSO4_H2O,Pelsh1973,25,25
+TSRC058,"E. Cornec, H. Krombach, A. Spack, Caliche, 11, 224 (1929)",4,K2SO4_Na2SO4_H2O,Zdanovskii1953,1.8,30.9
+TSRC059,"E. Cornec, H. Krombach, Ann. chim. (10), 12, 207 (1929)",16,K2SO4_Na2SO4_H2O,Zdanovskii1953,0,100
+TSRC060,"E. Cornec, H. Krombach, Ann. chim. (10), 18, 25-31 (1932); Compt. rend., 194, 716 (1932)",49,KCl_NaCl_H2O,Zdanovskii1953,0,100
+TSRC061,"E. Debler, Dissert. Erlangen, str. 44, 1913; W. Grunewald, Dissert. Erlangen, str. 25-28, 1913",3,K2SO4_MgSO4_H2O,Pelsh1973,25,25
+TSRC062,"E. Debler, Dissert. Erlangen, str. 45, 1913; W. Grunewald, Dissert. Erlangen, str. 20-21 and 25-27, 1913",3,KCl_MgCl2_H2O,Zdanovskii1953,25,25
+TSRC063,"E. Debler, Dissert. Erlangen, str. 45, 1913; W. Grunewald, Dissert. Erlangen, str. 29-30, 1913",1,MgCl2_NaCl_H2O,Zdanovskii1953,25,25
+TSRC064,"E. Debler, Dissert., Beitrage zur Kenntnis der ozean. Salzablag., str. 44, 1913 [M. I.]",2,MgCl2_MgSO4_H2O,Pelsh1973,25,25
+TSRC065,"E. Debler, Dissert., Zur Kenntnis der ozean. Salzablag., str. 44, 1913 [M. I.]",2,MgCl2_MgSO4_H2O,Zdanovskii1953,25,25
+TSRC066,"E. Diacon, Memoires de l'Acad. sci. et lettres de Montpellier, sect. sci., 6, 54-61 (1864-1866)",17,MgSO4_Na2SO4_H2O,Zdanovskii1953,0,40
+TSRC067,"E. J. Salstrom, G. M. Smith, J. Phys. Chem., 34, 2245 and 2247 (1930)",10,K2SO4_Na2SO4_H2O,Zdanovskii1953,25,25
+TSRC068,"E. Janecke, Kali, No 29, 145 (1935)",12,K2SO4_MgSO4_H2O;K2SO4_Na2SO4_H2O,Pelsh1973;Zdanovskii1953,1.8,100
+TSRC069,"E. Janecke, Z. Elektrochem., 40, 738 (1934); Kali, No 29, 146 (1935)",9,MgSO4_Na2SO4_H2O,Zdanovskii1953,21,71
+TSRC070,"E. Kayser, Kali, No 1, 2 (1923)",17,KCl_NaCl_H2O,Zdanovskii1953,23,23
+TSRC071,"E. Wollner, Dissert. Erlangen, str. 17, 1913",2,K2SO4_KCl_H2O,Zdanovskii1953,25,25
+TSRC072,"E. Wollner, Dissert. Erlangen, str. 17-20, 1913",1,K2SO4_MgSO4_H2O,Pelsh1973,25,25
+TSRC073,"E. Wollner, Dissert., Beitrage zur Kenntnis der ozean. Salzablag., str. 20, 1913 [M. I., t > 9 ch]",1,MgCl2_MgSO4_H2O,Pelsh1973,25,25
+TSRC074,"Etard, Ann. chim. phys. (7), 3, 277 (1894)",11,KCl_NaCl_H2O,Zdanovskii1953,0,100
+TSRC075,"F. Frowein, E. von Muhlendahl, Z. anorg. Chem., 39, 1491-1493 (1926)",30,KCl_MgCl2_H2O;MgCl2_NaCl_H2O,Pelsh1973;Zdanovskii1953,0,80
+TSRC076,"F. K. Cameron, J. M. Bell, W. O. Robinson, J. Phys. Chem., 11, 401-402 (1907)",21,Na2SO4_NaCl_H2O,Zdanovskii1953,25,25
+TSRC077,"F. Kunneth, Dissert. Erlangen, str. 29, 1913",1,Na2SO4_NaCl_H2O,Zdanovskii1953,25,25
+TSRC078,"F. Kunneth, Dissert. Erlangen, str. 29, 1913",2,KCl_NaCl_H2O;MgCl2_NaCl_H2O,Zdanovskii1953,25,25
+TSRC079,"F. Norton, J. Johnston, Am. J. Sci. (5), 12, No 72, 478 (1926)",14,Na2SO4_NaCl_H2O,Zdanovskii1953,17.98,32.38
+TSRC080,"F. Pfaff, Ann. Chem. Pharm., 99, 226-227 (1856)",3,MgSO4_Na2SO4_H2O,Zdanovskii1953,0,0
+TSRC081,"F. Schreinemakers, W. de Baat, Z. phys. Chem., 67, 554-558 (1909); Archives Neerlandaises sc. ex. nat. (2), 15, 83 and 87-88 (1911); Proc. Roy. Ac. Sci. Amst., 13, 1163 (1911)",7,Na2SO4_NaCl_H2O,Zdanovskii1953,15,35
+TSRC082,"Froehlich, Mitt. KFA, 68, 53 and 65 (1929); Tablitsy D'Ans'a, str. 68-70, 1933",3,KCl_NaCl_H2O,Zdanovskii1953,66,93
+TSRC083,"G. Bozza, F. Pancilolli, A. Thischby, Giorn. Chim. Ind. Appl., 16, 111 (1934)",18,K2SO4_MgSO4_H2O,Pelsh1973,35,35
+TSRC084,"G. Leimbach, A. Pfeiffenberg, Caliche, 11, 64, 72-73, 351, 389 and 439 (1929)",3,MgCl2_NaCl_H2O,Zdanovskii1953,0,50
+TSRC085,"G. Leimbach, Caliche, 11, 469-472 (1929)",10,KCl_NaCl_H2O,Zdanovskii1953,5,100
+TSRC086,"G. Smith, T. Ball, J. Am. Chem. Soc., 39, 217 (1917)",2,K2SO4_Na2SO4_H2O,Zdanovskii1953,25,25
+TSRC087,"H. Gerlach, Kali, No 1, 8 (1926)",15,KCl_NaCl_H2O,Zdanovskii1953,16.15,79.65
+TSRC088,"H. Gross, Dissert. Erlangen, str. 22-28, 1914",2,KCl_MgCl2_H2O,Pelsh1973,25,25
+TSRC089,"H. Gross, Dissert. Erlangen, str. 30, 1914 [M. I.]",1,MgCl2_MgSO4_H2O,Pelsh1973,25,25
+TSRC090,"H. Hering, Dissert., Strassbourg, str. 24-28, 1926",8,K2SO4_KCl_H2O,Pelsh1973,25,100
+TSRC091,"H. Keitel, Mitt. KFA, 32, 100-111 (1922)",30,KCl_NaCl_H2O,Zdanovskii1953,20,60
+TSRC092,"H. Precht, B. Wittgen, Ber., 15, 1668 (1882)",6,K2SO4_MgSO4_H2O,Zdanovskii1953,40,80
+TSRC093,"H. Precht, B. Wittjen, Ber., 14, 1670 (1881)",6,KCl_NaCl_H2O,Zdanovskii1953,10,100
+TSRC094,"H. Precht, B. Wittjen, Ber., 14, 1672 (1881)",49,KCl_MgCl2_H2O,Pelsh1973;Zdanovskii1953,10,100
+TSRC095,"H. Precht, B. Wittjen, Ber., 14, 1674 (1881)",5,K2SO4_KCl_H2O,Pelsh1973,10,90
+TSRC096,"H. Precht, B. Wittjen, Ber., 15, 1668 (1882)",9,K2SO4_MgSO4_H2O,Pelsh1973,10,80
+TSRC097,"H. Roozeboom, Z. phys. Chem., 2, 518 (1888); Rec. Trav. chim., 6, 342 (1887)",13,MgSO4_Na2SO4_H2O,Zdanovskii1953,18.5,47
+TSRC098,"H. W. Foote, J. Am. Chem. Soc., 33, 465-466 (1911)",9,K2SO4_Na2SO4_H2O,Zdanovskii1953,25,25
+TSRC099,"H. van Klooster, J. Phys. Chem., 21, 515 (1917)",15,K2SO4_MgSO4_H2O,Pelsh1973,25,25
+TSRC100,"H. van Kloster, J. Phys. Chem., 21, 515 (1917)",18,K2SO4_MgSO4_H2O,Zdanovskii1953,25,25
+TSRC101,"Hill, Loucks, J. Am. Chem. Soc., 59, 2095 (1937) [M. I.]",1,K2SO4_KCl_H2O,Zdanovskii1953,25,25
+TSRC102,"I. Igelsrud, T. Thompson, J. Am. Chem. Soc., 58, 320 (1936)",6,KCl_MgCl2_H2O,Pelsh1973,0,0
+TSRC103,"Igelsrud and Thompson, 1936",10,KCl_MgCl2_H2O,Linke1965,0,0
+TSRC104,"J. E. Teeple, The Industrial Development of Searles Lake Brines, str. 77-84, 1929",8,KCl_NaCl_H2O,Zdanovskii1953,20,100
+TSRC105,"J. E. Teeple, The industrial Development of Searles Lake Brines, str. 72-75, 1929",5,K2SO4_KCl_H2O,Pelsh1973,35,75
+TSRC106,"J. E. Teeple, The industrial Development of Searles Lake Brines, str. 78-82, 1929",9,K2SO4_Na2SO4_H2O,Zdanovskii1953,35,75
+TSRC107,"J. Gladstone, Quart. J. Chem. Soc., 6, 111 (1854)",1,K2SO4_Na2SO4_H2O,Zdanovskii1953,3.55,3.55
+TSRC108,"J. Holluta, S. Mautner, Z. phys. Chem., 127, 459-461 and 464 (1927)",15,KCl_NaCl_H2O,Zdanovskii1953,18.5,18.5
+TSRC109,"J. Roll, Dissert. Erlangen, str. 37, 1913",2,Na2SO4_NaCl_H2O,Zdanovskii1953,83,83
+TSRC110,"J. Roll, Dissert. Erlangen, str. 37, 1913",1,MgCl2_NaCl_H2O,Zdanovskii1953,83,83
+TSRC111,"J. Schonach, Sitzungsber. Wien. Akad., 80, II, 529 (1880); Wiener Anzeiger, str. 236 (1879)",18,KCl_NaCl_H2O,Zdanovskii1953,0,98.4
+TSRC112,"J. Uhlig, Centralbl. Mineral., str. 419 (1913)",2,KCl_MgCl2_H2O,Zdanovskii1953,50,50
+TSRC113,"J. Van't Hoff, T. Estreicher-Rozbierski, Sitzungsber. preuss. Akad., str. 490 (1898); Zur Bild. ozean. Salzablag., str. 30, 1905; Untersuch Bild. ozean. Salzablag., str. 42, 1912",6,MgCl2_MgSO4_H2O,Zdanovskii1953,25,25
+TSRC114,"J. W. Leather, J. N. Mukerji, Mem. Dept. Agr. India, chem. ser., 3, No 7, 191 (1914)",17,KCl_NaCl_H2O,Zdanovskii1953,20,91
+TSRC115,"Janecke, Erdmann, Jahresber. Hallesch. Verbandes, 2, 242 (1920) (po D'Ans'y)",1,K2SO4_KCl_H2O,Zdanovskii1953,14.8,14.8
+TSRC116,"Janecke, Erdmann, Jahresber. Hallesch. Verbandes, 2, 244 (1920) [po D'Ans'y]",2,MgCl2_MgSO4_H2O,Pelsh1973,15,15
+TSRC117,"Janecke, Erdmann, Jahresber. Hallesch. Verbandes, 2, 248 (1920)",5,K2SO4_MgSO4_H2O,Pelsh1973;Zdanovskii1953,0,100
+TSRC118,"K. P. Patel, K. Seshadri, India J. Chem., 6, 380 (1968)",2,KCl_MgCl2_H2O,Pelsh1973,25,25
+TSRC119,"K. Uyeda, Mem. Coll. Sci. and Eng., Kyoto Imp. Univ., 2, 249-250 (1909-1910)",6,KCl_NaCl_H2O,Zdanovskii1953,25,25
+TSRC120,"Keitel, 1923",27,KCl_MgCl2_H2O;MgCl2_NaCl_H2O,Linke1965,15,83
+TSRC121,"Keitel, Gerlach, Mitt. KFA, 37, 198-199 (1922); Kali, No 16, 249-250 (1923)",24,KCl_MgCl2_H2O,Zdanovskii1953,15,83
+TSRC122,"Keitel, Gerlach, Mitt. KFA, 37, 202-203 (1922); Kali, No 17, 262-263 (1923)",11,MgCl2_NaCl_H2O,Zdanovskii1953,15,83
+TSRC123,"Koelichen, Althammer, Mitt. KFA, 3, 80 (1923)",2,MgSO4_Na2SO4_H2O,Zdanovskii1953,0,35
+TSRC124,"Kopp, Ann. chem. Pharm., 34, 264 (1840)",3,K2SO4_KCl_H2O,Zdanovskii1953,14.8,16.1
+TSRC125,"Kournakov & Zemcuznyj, 1919, 1924",12,MgCl2_NaCl_H2O,Linke1965,0,25
+TSRC126,"Kournakow & Zemcuznyj, 1919, 1924; Takegami, 1921; Kusnetzow, 1937; Campbell, Downes and Samis, 1934",31,MgCl2_MgSO4_H2O,Linke1965,0,100
+TSRC127,"Leather and Mukerji, 1913; see also Nicol, 1891.",23,KCl_NaCl_H2O,Seidell1919,20,91
+TSRC128,"Lee & Egerton, 1923; Keitel, 1923",11,KCl_MgCl2_H2O,Linke1965,25,25
+TSRC129,"Lee, Egerton, J. Chem. Soc., 123-124, 715 (1923)",4,KCl_MgCl2_H2O,Pelsh1973,25,25
+TSRC130,"Lightfoot and Prutton, 1946, 1947",13,KCl_MgCl2_H2O,Linke1965,35,75
+TSRC131,"Luk'yanova, Sokol and Sokolova, 1956",12,K2SO4_MgSO4_H2O;MgCl2_MgSO4_H2O,Linke1965,75,75
+TSRC132,"Lowenherz, Z. phys. Chem., 13, 481 (1894); 12, 481 (1898)",2,KCl_MgCl2_H2O,Zdanovskii1953,25,25
+TSRC133,"Lowenherz, Z. phys. Chem., 13, 481-483 (1894)",1,K2SO4_KCl_H2O,Zdanovskii1953,25,25
+TSRC134,"Lowenherz, Z. phys. Chem., 13, 483 (1894)",1,K2SO4_MgSO4_H2O,Pelsh1973,25,25
+TSRC135,"M. A. Hamid, J. Chem. Soc., str. 202 (1926)",4,K2SO4_Na2SO4_H2O,Zdanovskii1953,90,90
+TSRC136,"M. Amadori, Atti del reale Istituto Veneto, 79, 2 sem., 296 (1919-1920)",10,KCl_NaCl_H2O,Zdanovskii1953,25,25
+TSRC137,"M. Legrand, R. Paris, Bull. Soc. chim. France, No 11, 4283 (1967)",24,K2SO4_KCl_H2O,Pelsh1973,0,40
+TSRC138,"Makarov and Druzhinin, 1937",6,K2SO4_Na2SO4_H2O,Linke1965,25,25
+TSRC139,"Meyerhoffer, Saunders, Z. phys. Chem., 27, 368 (1898)",1,Na2SO4_NaCl_H2O,Zdanovskii1953,17,17
+TSRC140,"Meyerhoffer, Z. phys. Chem., 5, 121 (1890)",2,MgSO4_Na2SO4_H2O,Zdanovskii1953,18.5,24.5
+TSRC141,"Michels, Przibylla, Die Kalirohsalze, str. 104-106, 1916",5,KCl_NaCl_H2O,Zdanovskii1953,0,80
+TSRC142,"Mulder, Jahresber. Fortschr. Chem., 1866, 67",2,K2SO4_MgSO4_H2O,Pelsh1973,15,15
+TSRC143,"Mulder, Jahresber. Fortschr. Chem., str. 67-68 (1866)",3,K2SO4_MgSO4_H2O,Zdanovskii1953,15,15
+TSRC144,"N. A. Vlasov, A. G. Bergman, Izv. Fiz.-Khim. n.-i. in-ta pri Irkutskom un-te, 4, 1, 62 (1959).",9,K2SO4_KCl_H2O,Linke1965,25,70
+TSRC145,"N. A. Vlasov, A. G. Bergman, Uch. zap. Irkutskogo un-ta, 16, 2, 89 (1956).",30,K2SO4_KCl_H2O,Linke1965,25,75
+TSRC146,"N. Bayliss, A. Cole, W. Ewers, N. Jones, J. Am. Chem. Soc., 69, 2035 (1947)",41,K2SO4_MgSO4_H2O;K2SO4_Na2SO4_H2O;MgSO4_Na2SO4_H2O,Pelsh1973;Zdanovskii1953,35,35
+TSRC147,"Page, Keightley, J. Chem. Soc., 25, 568-569 (1872)",3,KCl_NaCl_H2O,Zdanovskii1953,15.6,15.6
+TSRC148,"Pel'sh, 1949",52,Na2SO4_NaCl_H2O,Linke1965,0,35
+TSRC149,"R. Lowenherz, Z. phys. Chem., 13, 480 (1894) [M. I.]",2,MgCl2_MgSO4_H2O,Pelsh1973;Zdanovskii1953,25,25
+TSRC150,"R. Nacken, Sitzungsber. preuss. Akad., str. 1022-1023 (1910)",7,K2SO4_Na2SO4_H2O,Zdanovskii1953,34,60
+TSRC151,"Roozeboom, 1887, 1888.",9,MgSO4_Na2SO4_H2O,Seidell1919,22,47
+TSRC152,"Rudorff, Pogg. Ann., 148, 464 (1873); Ber., 6, 484 (1873)",2,KCl_NaCl_H2O,Zdanovskii1953,18.8,18.8
+TSRC153,"S. M. Levi, Z. phys. Chem., 106, 94 (1923)",18,K2SO4_MgSO4_H2O,Pelsh1973;Zdanovskii1953,0,63.4
+TSRC154,"S. Roll, Dissert. Erlangen, str. 37, 1913",2,KCl_NaCl_H2O,Zdanovskii1953,83,83
+TSRC155,"S. Takegami, J. Chem. Soc., Japan, 42, 441-453(1921); Mem. Coll. Sci. Kyoto. Imp. Univ., 5, 191-199 (1922)",13,MgSO4_Na2SO4_H2O,Zdanovskii1953,25,30
+TSRC156,"S. Takegami, J. Tokyo Chem. Soc., 41, 831-868 (1920); Mem. Coll. Sci., Kyoto Imp. Univ., 4, 317-342 (1921)",10,Na2SO4_NaCl_H2O,Zdanovskii1953,25,25
+TSRC157,"S. Takegami, Mem. Coll. Sci., Kyoto Imp. Univ., 4, 317 (1921) [M. I.]",2,MgCl2_MgSO4_H2O,Pelsh1973,25,25
+TSRC158,"S. Takegami, Mem. Coll. Sci., Kyoto Imp. Univ., 4, 317-342 (1921)",28,MgCl2_MgSO4_H2O;MgCl2_NaCl_H2O,Pelsh1973;Zdanovskii1953,25,25
+TSRC159,"S. Takegami, Mem. Coll. Sci., Kyoto. Imp. Univ., 4, 317-342 (1921)",13,MgSO4_Na2SO4_H2O,Zdanovskii1953,25,25
+TSRC160,"Schreinemakers and de Baat, 1909.",4,Na2SO4_NaCl_H2O,Seidell1919,15,15
+TSRC161,"Schroder, 1929",7,MgSO4_Na2SO4_H2O,Linke1965,60,67
+TSRC162,"Seidell, 1902",2,Na2SO4_NaCl_H2O,Linke1965,25,25
+TSRC163,"Seidell, 1902.",51,Na2SO4_NaCl_H2O,Seidell1919,10,35
+TSRC164,"Shul'gina, Kharchuk and Yanat'eva, 1955; Anosov and Byzova, 1947; Dolique and Pauc, 1947, 1948; Hering, 1926; Blasdale, 1918; Precht and Wittgen; Kopp; Van't Hoff and Meyerhoffer; Schreinemakers and DeBaat",41,K2SO4_KCl_H2O,Linke1965,0,100
+TSRC165,"Smith and Ball, 1917; Nacken, 1910",12,K2SO4_Na2SO4_H2O,Seidell1919,25,60
+TSRC166,"Soch, J. Phys. Chem., 2, 46 (1898)",2,KCl_NaCl_H2O,Zdanovskii1953,25,80
+TSRC167,"Starrs and Clark, 1930",12,K2SO4_MgSO4_H2O,Linke1965,30,30
+TSRC168,"Starrs and Storck, 1930",20,K2SO4_MgSO4_H2O,Linke1965,85,100
+TSRC169,"T. E. Girich, S. N. Ganz, Zh. Prikl. Khim., 40, 2337 (1967).",1,K2SO4_KCl_H2O,Linke1965,0,0
+TSRC170,"T. Kanakowsky, Tablitsy D'Ans'a, str. 81, 1933",1,KCl_MgCl2_H2O,Pelsh1973,55,55
+TSRC171,"T. Meyer, C. Prutton, W, Lightfoot, J. Am. Chem. Soc., 71, 1237 (1949)",1,MgCl2_NaCl_H2O,Zdanovskii1953,35,35
+TSRC172,"Takegami, 1921",9,MgCl2_NaCl_H2O,Linke1965,25,25
+TSRC173,"Takegami, 1921a, 1922",1,MgSO4_Na2SO4_H2O,Linke1965,25,25
+TSRC174,"Th. Kanakowsky, Tablitsy D'Ans'a, str. 128, 1933",11,MgCl2_MgSO4_H2O,Pelsh1973;Zdanovskii1953,55,55
+TSRC175,"V. G. Shevchuk, V. N. Pilipchenko, Zh. Neorg. Khim., 13, 2263 (1968).",11,K2SO4_KCl_H2O,Linke1965,25,25
+TSRC176,"Van Klooster, 1917",11,K2SO4_MgSO4_H2O,Linke1965,25,25
+TSRC177,"Van Klooster, 1917.",15,K2SO4_MgSO4_H2O,Seidell1919,25,25
+TSRC178,"Van der Heide, Z. phys. Chem., 12, 423-424 (1893)",6,K2SO4_MgSO4_H2O,Zdanovskii1953,22,98
+TSRC179,"Van't Hoff, Barschall, Sitzungsber. preuss. Akad., str. 364 (1903)",4,K2SO4_Na2SO4_H2O,Zdanovskii1953,60,60
+TSRC180,"Van't Hoff, Dawson, Untersuch. Bild. ozean. Salzablag., str. 71, 1912 [M. I.]",6,MgCl2_MgSO4_H2O,Pelsh1973;Zdanovskii1953,25,25
+TSRC181,"Van't Hoff, Dewenter, Z. phys. Chem., 1, 179 (1887)",4,MgSO4_Na2SO4_H2O,Zdanovskii1953,15.5,24.5
+TSRC182,"Van't Hoff, Meyerhoffer, Cottrell, Sitzungsber. preuss. Akad., str. 280 (1902)",1,K2SO4_MgSO4_H2O,Zdanovskii1953,61.5,61.5
+TSRC183,"Van't Hoff, Meyerhoffer, Sitzungsber. preuss. Acad., 24, 489-500 (1897); Z. phys. Chem., 30, 77 (1899)",4,KCl_MgCl2_H2O,Pelsh1973,0,61.5
+TSRC184,"Van't Hoff, Meyerhoffer, Sitzungsber. preuss. Akad., str. 591 (1898)",2,MgCl2_NaCl_H2O;Na2SO4_NaCl_H2O,Zdanovskii1953,24.9,24.95
+TSRC185,"Van't Hoff, Meyerhoffer, Sitzungsber. preuss. Akad., str. 591 (1898); Untersuch. Bild. ozean. Salzablag., str. 77, 1912",1,KCl_NaCl_H2O,Zdanovskii1953,25,25
+TSRC186,"Van't Hoff, Sachs, Biach, Sitzungsber. preuss. Akad., str. 578 and 585 (1904); Serowy, Mitt. KFA, 26, 67 (1921)",1,MgCl2_NaCl_H2O,Zdanovskii1953,83,83
+TSRC187,"Van't Hoff, Sachs, Biach, Sitzungsber. preuss. Akad., str. 579-585 (1904); Untersuch. Bild. ozean. Salzablag., str. 261, 1912; Serowy, Mitt. KFA, 26, 67-68 (1921)",3,Na2SO4_NaCl_H2O,Zdanovskii1953,83,83
+TSRC188,"Van't Hoff, Sachs, Sitzungsber. preuss. Akad., str. 579 (1904); Untersuch. Bild. ozean. Salzablag., str. 261, 1912; Serowy, Mitt. KFA, 26, 67 (1921)",1,KCl_NaCl_H2O,Zdanovskii1953,83,83
+TSRC189,"Van't Hoff, Z. anorg. Chem., 47, 247 (1905); Sitzungsber. preuss. Akad., str. 233 (1905)",2,MgCl2_NaCl_H2O,Zdanovskii1953,25,25
+TSRC190,"W. Blasdale, H. Robson, J. Am. Chem. Soc., 50, 45 (1928)",20,MgSO4_Na2SO4_H2O,Zdanovskii1953,67,100
+TSRC191,"W. Blasdale, J. Am. Chem. Soc., 45, 2944 (1923)",4,K2SO4_Na2SO4_H2O,Zdanovskii1953,25,25
+TSRC192,"W. Blasdale, J. Ind. Eng. Chem., 10, 345-347 (1918)",33,K2SO4_KCl_H2O;K2SO4_Na2SO4_H2O,Pelsh1973;Zdanovskii1953,0,100
+TSRC193,"W. Blasdale, J. Ind. Eng. Chem., 10, 345-347 (1918)",12,Na2SO4_NaCl_H2O,Zdanovskii1953,0,100
+TSRC194,"W. Blasdale, J. Ind. Eng. Chem., 10, 345-347 (1918); J. Am. Chem. Soc., 45, 2938-2939 (1923)",14,KCl_NaCl_H2O,Zdanovskii1953,0,100
+TSRC195,"W. Blasdale, J. Ind. Eng. Chem., 12, 165 (1920)",8,MgSO4_Na2SO4_H2O;Na2SO4_NaCl_H2O,Zdanovskii1953,25,25
+TSRC196,"W. Blasdale, J. Ind. Eng. Chem., 12, 165 (1920) [M. I.]",4,MgCl2_MgSO4_H2O,Pelsh1973,25,25
+TSRC197,"W. Feit, K. Kubierschky, Chem. Ztg., 16, No 21, 336 (1892)",8,KCl_MgCl2_H2O,Pelsh1973,20,20
+TSRC198,"W. Froehlich, Mitt. KFA, 68, 50, 63 (1929)",2,MgCl2_MgSO4_H2O,Pelsh1973,83.8,98
+TSRC199,"W. Froehlich, Mitt. KFA, 68, 50-51 and 63-64 (1929)",36,MgCl2_MgSO4_H2O,Zdanovskii1953,18.1,98
+TSRC200,"W. Lightfoot, C. Prutton, J. Am. Chem. Soc., 68, 1002 (1946)",10,KCl_MgCl2_H2O,Pelsh1973,35,35
+TSRC201,"W. Lightfoot, C. Prutton, J. Am. Chem. Soc., 69, 2099 (1947)",11,KCl_MgCl2_H2O,Pelsh1973,75,75
+TSRC202,"W. Meyerhoffer, A. Saunders, Z. phys. Chem., 28, 469-482 (1899)",16,K2SO4_Na2SO4_H2O,Zdanovskii1953,0,30.1
+TSRC203,"W. Meyerhoffer, A. Saunders, Z. phys. Chem., 28, 469-482 (1899)",9,Na2SO4_NaCl_H2O,Zdanovskii1953,0,25
+TSRC204,"W. Meyerhoffer, A. Saunders, Z. phys. Chem., 28, 479-482 (1899)",11,KCl_NaCl_H2O,Zdanovskii1953,0,25
+TSRC205,"W. Meyerhoffer, S. Saunders, Z. phys. Chem., 28, 479-482 (1899)",12,K2SO4_KCl_H2O,Pelsh1973,0,25
+TSRC206,"W. Nicol. Phil. Mag. (5), 31, 380 and 385 (1891)",9,KCl_NaCl_H2O,Zdanovskii1953,20,20
+TSRC207,"W. Reinders, Z. anorg. Chem., 93, 204-207 (1915)",19,KCl_NaCl_H2O,Zdanovskii1953,5,100
+TSRC208,"W. Schroder, Z. anorg. Chem., 177, 74-75 (1928); Caliche, 11, 155 (1929)",15,MgSO4_Na2SO4_H2O,Zdanovskii1953,74.6,74.6
+TSRC209,"W. Schroder, Z. anorg. Chem., 184, 81 (1929); Caliche, 12, 560 (1930)",30,MgSO4_Na2SO4_H2O,Zdanovskii1953,63,63
+TSRC210,"Yanat'eva and Orlova, 1956",16,K2SO4_Na2SO4_H2O,Linke1965,55,55
+TSRC211,"van't Hoff and Meyerhoffer, 1899, 1912. (Uhlig, 1913)",6,KCl_MgCl2_H2O,Seidell1919,0,61.5
+TSRC212,"A. B. Zdanovskii, ZhPKh, 20, vyp. 12, 1250 (1947)",4,MgCl2_NaCl_H2O,Zdanovskii1953,25,25
+TSRC213,"A. G. Bergman, Z. A. Koloskova, N. S. Dombrovskaia, Za nedra Volgo-Prikaspiia, vyp. 2, str. 312, 1937",6,MgCl2_MgSO4_H2O,Pelsh1973,35,70
+TSRC214,"A. G. Bergman, Z. A. Koloskova, N. S. Dombrovskaia, Za nedra Volgo-Prikaspiia, vyp. 2, str. 312-313, 1937",5,MgCl2_MgSO4_H2O,Zdanovskii1953,25,70
+TSRC215,"A. G. Bergman, Z. A. Koloskova, N. S. Dombrovskaia, Za nedra-Volgo-Prikaspiia, vyp. 2, str. 312-313, 1937",2,MgCl2_NaCl_H2O,Zdanovskii1953,25,45
+TSRC216,"A. D. Pel'sh, Biulleten' Instituta galurgii, No 6-7, 33 (1940)",19,Na2SO4_NaCl_H2O,Zdanovskii1953,0,35
+TSRC217,"A. D. Pel'sh, VNIIG, 1949",26,MgCl2_MgSO4_H2O,Pelsh1973;Zdanovskii1953,3.7,35
+TSRC218,"A. D. Pel'sh, VNIIG, 1949-1951",37,MgSO4_Na2SO4_H2O,Zdanovskii1953,0,35
+TSRC219,"A. D. Pel'sh, Trudy VNIIG, vyp. 21, 148 (1949)",5,Na2SO4_NaCl_H2O,Zdanovskii1953,20,30
+TSRC220,"A. P. Belopol'skii, S. Ia. Shpunt, ZhPKh, 18, vyp. 11-12, 628-632 (1945); Kalii, No 3, str. 26-30 (1936) (60 deg)",7,K2SO4_Na2SO4_H2O,Zdanovskii1953,0,60
+TSRC221,"A. P. Palkin and dr., Solikamskie karnallity, str. 70 and 72, 1935",8,KCl_NaCl_H2O,Zdanovskii1953,0,0
+TSRC222,"A. P. Palkin and dr., Solikamskie karnallity, str. 74 and 76, 1935",7,MgCl2_NaCl_H2O,Zdanovskii1953,0,0
+TSRC223,"A. P. Palkin and dr., Solikamskie karnallity, str. 80, 1935",7,KCl_MgCl2_H2O,Pelsh1973,0,0
+TSRC224,"A. P. Palkin, E. N. Varasova, ZhPKh, 5, vyp. 3-4, 317, 321 (1932)",15,KCl_MgCl2_H2O,Pelsh1973,0,0
+TSRC225,"A. P. Palkin, E. N. Varasova, ZhPKh, 5, vyp. 3-4, 320 (1932)",1,KCl_NaCl_H2O,Zdanovskii1953,0,0
+TSRC226,"B. V. Gromov, ZhPKh, 13, vyp. 3, 350-354 (1940)",9,Na2SO4_NaCl_H2O,Zdanovskii1953,25,100
+TSRC227,"V. G. Kuznetsov, Izv. AN SSSR, ser. khim., No 2, 388-393 (1937)",45,MgCl2_MgSO4_H2O,Pelsh1973;Zdanovskii1953,35,35
+TSRC228,"V. E. Grushvitskii, E. M. Flerinskaia, VNIIG, 1932",2,Na2SO4_NaCl_H2O,Zdanovskii1953,25,25
+TSRC229,"V. I. Litvinenko, R. S. Erzhanova, A. B. Bekturov, Izv. AN KazSSR, ser. khim., No 4, 3 (1968)",35,K2SO4_MgSO4_H2O,Pelsh1973,20,80
+TSRC230,"V. I. Nikolaev and E. E. Burovaia, Izv. SFKhA AN SSSR, 10, 248-249 (1938)",4,MgSO4_Na2SO4_H2O,Zdanovskii1953,25,25
+TSRC231,"V. I. Nikolaev, A. G. Kogan, ZhPKh, 16, vyp. 5-6, 177-183 (1943)",1,MgSO4_Na2SO4_H2O,Zdanovskii1953,25,25
+TSRC232,"V. I. Nikolaev, E. E. Burovaia, Izv. SFKhA AN SSSR, 10, 248-249 (1938)",9,MgCl2_MgSO4_H2O;MgCl2_NaCl_H2O,Zdanovskii1953,25,25
+TSRC233,"V. I. Nikolaev, E. E. Burovaia, Izv. SFKhA AN SSSR, 10, 248-249 (1938) [M. I. +- 0,1 deg]",4,Na2SO4_NaCl_H2O,Zdanovskii1953,25,25
+TSRC234,"V. N. Sveshnikova, Izv. SFKhA AN SSSR, 17, 349-350 (1949); DAN SSSR, 79, No 3, 448 (1951) [M. I.]",2,K2SO4_KCl_H2O,Zdanovskii1953,25,55
+TSRC235,"V. P. Il'inskii, A. F. Sagaidachnyi, ZhRFKhO, ch. khim., 61, vyp. 10, 1957-1969 (1929)",5,MgSO4_Na2SO4_H2O,Zdanovskii1953,5,5
+TSRC236,"V. P. Il'inskii, N. A. Varypaev, K. E. Gitterman, N. E. Shmidt, Trudy solian. labor. AN SSSR, vyp. 7, 32-33 (1936)",3,KCl_NaCl_H2O,Zdanovskii1953,0,80
+TSRC237,"V. Ia. Anosov, E. A. Byzova, Izv. SFKhA AN SSSR, 15, 119-120 (1947)",41,K2SO4_KCl_H2O,Zdanovskii1953,0,100
+TSRC238,"G. S. Sedel'nikov, ZhPKh, 17, vyp. 6, 338 (1944) [M. I.]",3,Na2SO4_NaCl_H2O,Zdanovskii1953,100,100
+TSRC239,"D. M. Korf, L. P. Shatrovskaia, ZhOKh, 10, vyp. 13, 1231-1234 (1940) [M. I. +- 0,1 deg]",4,Na2SO4_NaCl_H2O,Zdanovskii1953,25,25
+TSRC240,"D. N. Shoikhet, Izv. SFKhA AN SSSR, 10, 331 (1938)",16,MgCl2_MgSO4_H2O,Pelsh1973;Zdanovskii1953,25,25
+TSRC241,"E. V. Biron, S. P. Mal'chevskii, ZhRFKhO, ch. khim., 11, vyp. 9, 1622 (1908)",5,Na2SO4_NaCl_H2O,Zdanovskii1953,24.75,32.45
+TSRC242,"E. I. Akhumov, M. P. Golovkov, ZhOKh, 5, vyp. 4, 504 (1935)",7,KCl_NaCl_H2O,Zdanovskii1953,15,15
+TSRC243,"E. I. Akhumov, M. P. Golovkov, ZhOKh, 5, vyp. 4, 506 (1935)",14,KCl_MgCl2_H2O;MgCl2_NaCl_H2O,Pelsh1973;Zdanovskii1953,15,15
+TSRC244,"E. I. Luk'ianova, V. I. Sokol, G. N. Sokolova, ZhNKh, 1, vyp. 2, 299 (1956)",8,MgCl2_MgSO4_H2O,Pelsh1973,75,75
+TSRC245,"E. I. Luk'ianova, V. I. Sokol, G. N. Sokolova, ZhNKh, 1, vyp. 2, 302 (1956)",10,K2SO4_MgSO4_H2O,Pelsh1973,75,75
+TSRC246,"E. I. Luk'ianova, Trudy GIPKh, vyp. 18, 51 (1933)",1,KCl_NaCl_H2O,Zdanovskii1953,10,10
+TSRC247,"E. Iu. Levina, ZhPKh, 11, vyp. 5, 762 (1938)",20,MgSO4_Na2SO4_H2O,Zdanovskii1953,25,25
+TSRC248,"E. Iu. Levina, ZhPKh, 11, vyp. 9, 1270-1271 (1938)",7,Na2SO4_NaCl_H2O,Zdanovskii1953,24.5,25.4
+TSRC249,"E. Iu. Levina, ZhPKh, 11, vyp. 9, 1283 and 1291 (1938)",2,MgSO4_Na2SO4_H2O,Zdanovskii1953,25,25
+TSRC250,"I. G. Druzhinin, A. P. Ianko, Trudy Instituta khimii AN KirgSSR, vyp. 6, 9 (1955)",6,K2SO4_KCl_H2O,Pelsh1973,25,25
+TSRC251,"I. K. Voskresenskaia, ZhPKh, 3, vyp. 3, 326 and 334 (1930)",1,MgCl2_MgSO4_H2O,Zdanovskii1953,35,35
+TSRC252,"I. Lepeshkov, N. Bodaleva, Izv. SFKhA AN SSSR, 17, 341 (1949)",6,K2SO4_KCl_H2O,Pelsh1973;Zdanovskii1953,35,35
+TSRC253,"I. N. Bochkareva, Tekhnologiia pererabotki prirodnykh solei and rassolov, Trudy VNIIG, str. 248, 1964; Fiziko-khimicheskie issledovaniia solei and rassolov, Trudy VNIIG, str. 141, 1967",27,MgCl2_MgSO4_H2O,Pelsh1973,45,45
+TSRC254,"I. N. Lepeshkov, L. V. Novikova, ZhNKh, 3, vyp. 10, 2396 (1958)",13,K2SO4_MgSO4_H2O,Pelsh1973,35,35
+TSRC255,"I. N. Lepeshkov, N. V. Bodaleva, Izv. SFKhA AN SSSR, 17, 341 (1949)",20,K2SO4_MgSO4_H2O;KCl_MgCl2_H2O,Pelsh1973,35,35
+TSRC256,"I. N. Lepeshkov, N. V. Bodaleva, Kaliinye soli Volga-Emby and Prikarpat'ia, str. 103, 1946",1,KCl_NaCl_H2O,Zdanovskii1953,55,55
+TSRC257,"M. I. Shul'gina, O. S. Kharchuk, O. K. Ianat'eva, Izv. SFKhA AN SSSR, 26, 208 (1955)",29,K2SO4_KCl_H2O,Pelsh1973,0,20
+TSRC258,"M. P. Shul'gina, O. S. Kharchuk, O. K. Ianat'eva, DAN SSSR, 73, 507 (1950); Izv. SFKhA AN SSSR, 26, 200 (1955)",40,K2SO4_KCl_H2O,Pelsh1973,0,100
+TSRC259,"M. Kh. Usmanova, I. G. Druzhinin, Uchenye zapiski Mosk. obl. pedagogich. instituta im. Krupskoi, 236, vyp. 3, 105 (1969)",7,K2SO4_MgSO4_H2O,Pelsh1973,20,20
+TSRC260,"N. V. Bodaleva, I. N. Lepeshkov, ZhNKh, 1, vyp. 5, 996 (1956)",13,K2SO4_MgSO4_H2O,Pelsh1973,55,55
+TSRC261,"N. V. Voskresenskaia, ZhPKh, 3, vyp. 3, 329 and 334 (1930)",4,MgSO4_Na2SO4_H2O,Zdanovskii1953,35,35
+TSRC262,"N. I. Visiagin, Biulleten' Instituta galurgii, No 10-11, 21 (1939)",19,MgSO4_Na2SO4_H2O;Na2SO4_NaCl_H2O,Zdanovskii1953,25,25
+TSRC263,"N. K. Voskresenskaia, ZhPKh, 3, vyp. 3, 324 and 334 (1930) [M. I.]",4,MgCl2_NaCl_H2O,Zdanovskii1953,35,35
+TSRC264,"N. K. Voskresenskaia, ZhPKh, 3, vyp. 3, 326, 334 (1930)",7,MgCl2_MgSO4_H2O,Pelsh1973,35,35
+TSRC265,"N. K. Voskresenskaia, ZhPKh, 3, vyp. 3, 327 and 334 (1930)",3,Na2SO4_NaCl_H2O,Zdanovskii1953,35,35
+TSRC266,"N. P. Andronova, I. N. Lepeshkov, ZhNKh, 3, vyp. 9, 2156 (1958)",2,K2SO4_MgSO4_H2O,Pelsh1973,75,75
+TSRC267,"N. P. Andronova, Uchenye zapiski Iaroslavskogo gos. pedagogich. instituta, vyp. 24, ch. 1, 66 (1958)",17,K2SO4_MgSO4_H2O,Pelsh1973,15,15
+TSRC268,"N. S. Kurnakov, V. G. Kuznetsov, Izv. IFKhA AN SSSR, 7, 186 (1935)",30,MgCl2_MgSO4_H2O,Pelsh1973;Zdanovskii1953,25,25
+TSRC269,"N. S. Kurnakov, V. G. Kuznetsov, Izv. IFKhA AN SSSR, 7, 187 (1935)",27,MgCl2_MgSO4_H2O,Pelsh1973,25,35
+TSRC270,"N. S. Kurnakov, V. G. Kuznetsov; Izv. IFKhA AN SSSR, 7, 187-188 (1935)",27,MgCl2_MgSO4_H2O,Zdanovskii1953,25,35
+TSRC271,"N. S. Kurnakov, D. N. Shoikhet, Izv. SFKhA AN SSSR, 10, 306 (1938)",5,K2SO4_KCl_H2O,Pelsh1973,25,25
+TSRC272,"N. S. Kurnakov, D. N. Shoikhet, Izv. SFKhA AN SSSR, 10, 307 (1938)",9,K2SO4_MgSO4_H2O,Pelsh1973,25,25
+TSRC273,"N. S. Kurnakov, N. A. Osokoreva and dr., Kalii, No 2, 27 (1932) (25 and 100 deg); Trudy GIPKh, vyp. 16, 40-41 (1932); Solikamskie karnallity, str. 59-60, 1935",52,KCl_MgCl2_H2O,Zdanovskii1953,10,100
+TSRC274,"N. S. Kurnakov, N. A. Osokoreva and dr., Trudy GIPKh, vyp. 16, 38 (1932); Kalii, No 2, 26 (1932); Solikamskie karnallity, str. 57, 1935",43,KCl_NaCl_H2O,Zdanovskii1953,10,100
+TSRC275,"N. S. Kurnakov, S. F. Zhemchuzhnyi, Izv. IFKhA, 1, vyp. 1, 197 (1919); ZhRFKhO, ch. khim., 51, vyp. 1-2, 13 (1919); Z. anorg. Chem., 140, 153 (1924); Karabugaz and ego promyshlennoe znachenie, str. 353, 1930",22,MgCl2_MgSO4_H2O,Pelsh1973,0,25
+TSRC276,"N. S. Kurnakov, S. F. Zhemchuzhnyi, Izv. IFKhA, 1, vyp. 1, 200 (1919); ZhRFKhO, 51, vyp. 1-2, 16 (1919); Z. anorg. Chem., 140, 155 (1924); Karabugaz and ego promyshlennoe znachenie, str. 356, 1930",7,MgSO4_Na2SO4_H2O,Zdanovskii1953,0,25
+TSRC277,"N. S. Kurnakov, S. F. Zhemchuzhnyi, Izv. IFKhA, 1, vyp. 7, 199 (1919); ZhRFKhO, ch. khim., 51, vyp. 1-2, 15 (1919); Z. anorg. Chem., 140, 155 (1924); Karabugaz and ego promyshlennoe znachenie, str. 355, 1930",8,Na2SO4_NaCl_H2O,Zdanovskii1953,0,25
+TSRC278,"N. S. Kurnakov, S. F. Zhemchuzhnyi, Izv. imp. AN, 6, No 2, 151-153 (1917); Izv. IFKhA, 1, vyp. 1, 198 (1919); ZhRFKhO, ch. khim., 51, vyp. 1-2, 14 (1919); Z. anorg. Chem., 140, 153 (1924)",17,MgCl2_NaCl_H2O,Zdanovskii1953,0,25
+TSRC279,"O. K. Ianat'eva, ZhPKh, 20, vyp. 1, 30 (1948)",3,MgSO4_Na2SO4_H2O,Zdanovskii1953,55,55
+TSRC280,"O. K. Ianat'eva, ZhPKh, 21, vyp. 1, 30 (1948)",6,MgCl2_NaCl_H2O;Na2SO4_NaCl_H2O,Zdanovskii1953,55,55
+TSRC281,"O. K. Ianat'eva, ZhPKh, 21, vyp. 1, 30 (1948) [M. I., t-do 8 sutok]",4,MgCl2_MgSO4_H2O,Pelsh1973,55,55
+TSRC282,"O. K. Ianat'eva, Izv SFKhA AN SSSR, 17, 373 (1949)",4,K2SO4_Na2SO4_H2O,Zdanovskii1953,25,25
+TSRC283,"O. K. Ianat'eva, Izv. SFKhA AN SSSR, 17, 373 (1949)",7,K2SO4_MgSO4_H2O;MgSO4_Na2SO4_H2O,Pelsh1973;Zdanovskii1953,25,25
+TSRC284,"P. S. Bogoiavlenskii, Shen Iuan'-lun, Uchenye zapiski Shankhaiskogo universiteta, Fudan', 1, 114 (1958)",18,K2SO4_KCl_H2O,Pelsh1973,40,40
+TSRC285,"S. Z. Makarov, V. V. Bukina, M. G. Valiashko, STE, 7, 234 (1931)",3,Na2SO4_NaCl_H2O,Zdanovskii1953,25,35
+TSRC286,"S. Z. Makarov, I. G. Druzhinin, Izv. AN SSSR, ser. khim., No 6, 1308-1309 (1937); No 1, 116 (1938)",9,K2SO4_Na2SO4_H2O,Zdanovskii1953,25,25
+TSRC287,"S. Z. Makarov, N. M. Vaksberg, STE, 7, 232-233 (1931)",1,Na2SO4_NaCl_H2O,Zdanovskii1953,0,0
+TSRC288,"S. Tukhtaev, R. G. Osichkina, A. G. Bergman, M. N. Nabiev, ZhNKh, 14, vyp. 6, 1697 (1969)",2,K2SO4_MgSO4_H2O,Pelsh1973,0.5,1.2
+TSRC289,"S. F. Zhemchuzhnyi, B. L. Ronkin, STE, 7, 215 (1931)",15,MgCl2_MgSO4_H2O;MgCl2_NaCl_H2O;MgSO4_Na2SO4_H2O;Na2SO4_NaCl_H2O,Pelsh1973;Zdanovskii1953,7,7
+TSRC290,"T. Rode, Izv. SFKhA AN SSSR, 14, 397 (1941); 15, 259 (1947) (3 sostava)",17,MgCl2_NaCl_H2O,Zdanovskii1953,25,25
+TSRC291,"T. Rode, Izv. SFKhA AN SSSR, 14, 399 (1941); 15, 259 (1947)",19,Na2SO4_NaCl_H2O,Zdanovskii1953,25,25
+TSRC292,"T. Rode, Izv. SFKhA AN SSSR, 14, 402 (1941); 15, 259 (1947)",23,MgCl2_MgSO4_H2O,Pelsh1973;Zdanovskii1953,25,25
+TSRC293,"T. Rode, Izv. SFKhA AN SSSR, 14, 406 (1941); 15, 260 (1947)",22,MgSO4_Na2SO4_H2O,Zdanovskii1953,25,25
+TSRC294,"F. F. Vol'f, V. S. Iatlov, ZhKhP, 5, vyp. 16, 839 (1928)",11,KCl_NaCl_H2O,Zdanovskii1953,20,20
