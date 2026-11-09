@@ -62,6 +62,23 @@ Expected ID-Thermo results are:
 | Na-Mg-Cl-SO4 | 0.729 | 1.608 |
 | K-Mg-Cl-SO4 | 0.811 | 1.374 |
 
+## Standalone NumPy/SciPy forward calculator
+
+Use the standalone calculator to predict the total dissolved salt concentration
+at first saturation and identify the controlling solid phase for a specified
+temperature and ionic composition. It uses the frozen nine-parameter ID-Thermo
+model and runs independently with NumPy and SciPy.
+
+```bash
+cd forward_numpy
+python -m pip install -r requirements.txt
+python forward.py --input example.csv --output example_predictions.json
+python verify.py
+```
+
+The usage guide documents the CSV input, supported systems, JSON output, and
+the 182-case numerical regression check. [Forward calculator guide](forward_numpy/README.md)
+
 ## Reproducing the paper calculations
 
 | Script | Calculation | Main output |
@@ -104,6 +121,7 @@ ID-Thermo/
 │   └── thermodynamic/        parameter tables and solid-phase inputs
 ├── src/idthermo/             Pitzer/SLE solver, model, training and analysis
 ├── experiments/              paper-level reproduction scripts
+├── forward_numpy/            standalone first-saturation calculator
 ├── model/                    frozen ID-Thermo parameter file
 ├── results/                  reference numerical outputs
 ├── tests/                    data and headline-result checks

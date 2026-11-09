@@ -1,0 +1,8 @@
+{
+  "core_source": "ID-Thermo research implementation, source/engine/vendor/diffpitz.py",
+  "core_source_sha256": "b6602639942dc8d05e9f6d304062288eb591642e66c07ab4a4ea012bf87995da",
+  "changes": "In pitzer_core.py only ParamDB loader replaced by standard-library JSON and pandas import removed. Thermodynamic equations unchanged. New first_root.py provides phase-resolved grid and local-maximum refinement; default forward.py uses that enhanced numerical search. Historical training/gradient routines remain unused.",
+  "model": "Original submitted9 fullprecision; --rounded uses4decimal Table4 directly on delta theta/delta psi",
+  "data_version": "Frozen182 supplied only as numerical verification cases, not new experiments",
+  "scope": "pure NumPy/SciPy forward tool; does not calibrate thermodynamic parameters"
+}
